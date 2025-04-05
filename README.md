@@ -1,4 +1,4 @@
-#  👾 Sobre mim:
+#  👾 Sobre:
 Estudante de Sistemas de Informação.
 
 
