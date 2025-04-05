@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Thurlerr&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
+<div style="padding-left: 50px">
 <picture>
                                                    <!--    https://raw.githubusercontent.com/Thurlerr/Thurlerr/e6db5af57cbc99830a672964e02e81a973c89573/github-snake-dark.svg -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thurlerr/Thurlerr/e6db5af57cbc99830a672964e02e81a973c89573/github-snake-dark.svg" />
