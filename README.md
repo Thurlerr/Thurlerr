@@ -14,17 +14,9 @@
   <p align="left" style="width:50%">
     <img style="display: inline-block;width:50%" src="https://github-readme-stats.vercel.app/api?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false"><br/>
     <img style="display: inline-block;width:50%" src="https://nirzak-streak-stats.vercel.app/?user=Thurlerr&theme=nightowl&hide_border=true"><br/>
-    <img style="display: inline-block;width:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+    <img style="display: inline-block;width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
   </p>
 </div>
-  <!-- 
- ![](https://github-readme-stats.vercel.app/api?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Thurlerr&theme=nightowl&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
- 
-
-  <!-- ![image alt >](https://github.com/user-attachments/assets/b833b3a0-ce20-404d-9114-68a9af0a559a) -->
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Thurlerr&limit=5&theme=radical&combine_all_yearly_contributions=true)
