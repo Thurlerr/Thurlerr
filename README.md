@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; flex-direction: row">
-  <img align="right" src="https://github.com/user-attachments/assets/b833b3a0-ce20-404d-9114-68a9af0a559a" alt="image" style="width:30%" />
+  <img align="right" src="https://github.com/user-attachments/assets/b833b3a0-ce20-404d-9114-68a9af0a559a" alt="image" style="width:20%; height:100%" />
   <p align="left" style="width:30%">
     <img style="display: inline-block" src="https://github-readme-stats.vercel.app/api?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false"><br/>
     <img style="display: inline-block" src="https://nirzak-streak-stats.vercel.app/?user=Thurlerr&theme=nightowl&hide_border=true"><br/>
