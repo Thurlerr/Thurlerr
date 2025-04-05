@@ -14,7 +14,7 @@
   <p align="left" style="width:50%">
     <img style="display: inline-block;width:50%" src="https://github-readme-stats.vercel.app/api?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false"><br/>
     <img style="display: inline-block;width:50%" src="https://nirzak-streak-stats.vercel.app/?user=Thurlerr&theme=nightowl&hide_border=true"><br/>
-    <img style="display: inline-block;width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+    <img style="display: inline-block;width:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
   </p>
 </div>
   <!-- 
