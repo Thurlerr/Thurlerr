@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 
-<div style="display: flex; flex-direction: row; width:1000px">
+<div style="display: flex; flex-direction: row; width:1000px; flex-wrap:nowrap">
   <img align="right" src="https://github.com/user-attachments/assets/b833b3a0-ce20-404d-9114-68a9af0a559a" alt="image" style="width:440px; height:50%;padding:0 !important" />
   <p align="left" style="width:auto">
     <img style="display: inline-block;width:50%" src="https://github-readme-stats.vercel.app/api?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false"><br/>
