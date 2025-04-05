@@ -22,3 +22,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thurlerr/Thurlerr/41f06b8f040313ba86e3521f6ebb840959070633/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Thurller/Thurller/output/github-snake.svg" />
 </picture>
+
+![IAvideo1-ezgif com-crop](https://github.com/user-attachments/assets/b833b3a0-ce20-404d-9114-68a9af0a559a)
