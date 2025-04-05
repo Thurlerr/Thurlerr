@@ -17,7 +17,7 @@
     <img style="display: inline-block;width:495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurlerr&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
   </p>
 </div>
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Thurlerr&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -28,9 +28,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thurlerr/Thurlerr/41f06b8f040313ba86e3521f6ebb840959070633/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Thurller/Thurller/output/github-snake.svg" />
 </picture>
-<style>
-  img[alt$=">"] {
-  float: right;
-}
-</style>
+
 
